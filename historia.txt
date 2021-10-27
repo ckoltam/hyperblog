@@ -1,5 +1,6 @@
 Soy Matias Lujan y tengo 23 años
 
-Voy a ir de vacaciones a las cataratas en diciembre
+Voy a ir de vacaciones a las cataratas en diciembre 
+y tal vez a la costa en año nuevo
 
 Estoy tomando el curso de github en platzi.
